@@ -1,0 +1,9 @@
+[33m7fc43cd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/feature/delete-expense[m[33m, [m[1;32mfeature/delete-expense[m[33m)[m Complete the delete Functionality
+[33m5d6a98f[m Complete the delete api
+[33m04abf45[m Merge pull request #4 from Jinu-kumar/feature/read-expense-by-id
+[33m526a80c[m[33m ([m[1;31morigin/feature/update-expense-details[m[33m, [m[1;31morigin/feature/read-expense-by-id[m[33m, [m[1;32mfeature/update-expense-details[m[33m, [m[1;32mfeature/read-expense-by-id[m[33m)[m Complete the development for get api
+[33m04f0bd6[m Merge pull request #3 from Jinu-kumar/feature/read-expenses
+[33m1b1c7e7[m[33m ([m[1;31morigin/feature/read-expenses[m[33m, [m[1;32mfeature/read-expenses[m[33m)[m Add some annotations
+[33mf079f76[m Merge pull request #2 from Jinu-kumar/feature/read-expenses
+[33me894a35[m Complete the read-expense detail
+[33m36d118c[m Initial commit
